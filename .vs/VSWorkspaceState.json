@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ros",
+    "\\ros\\src",
+    "\\ros\\src\\tl_detector",
+    "\\ros\\src\\tl_detector\\light_classification"
+  ],
+  "SelectedNode": "\\ros\\src\\tl_detector\\tl_detector.py",
+  "PreviewInSolutionExplorer": false
+}

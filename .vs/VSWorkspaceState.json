@@ -3,9 +3,11 @@
     "",
     "\\ros",
     "\\ros\\src",
-    "\\ros\\src\\tl_detector",
-    "\\ros\\src\\tl_detector\\light_classification"
+    "\\ros\\src\\tl_detector\\light_classification",
+    "\\ros\\src\\tl_detector\\light_classification\\models",
+    "\\ros\\src\\twist_controller",
+    "\\ros\\src\\waypoint_updater\\launch"
   ],
-  "SelectedNode": "\\ros\\src\\tl_detector\\tl_detector.py",
+  "SelectedNode": "\\ros\\src\\twist_controller\\dbw_node.py",
   "PreviewInSolutionExplorer": false
 }
